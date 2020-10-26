@@ -1,5 +1,7 @@
 # Example code for the EVE on a ESP 32 with the WEMOS D1 mini
 
+![Weather Screen](/images/Demo1.jpg)
+
 - Designed for Matrix Orbital EVE3-43 SPI TFT Displays
 
   https://www.matrixorbital.com/ftdi-eve
@@ -28,7 +30,7 @@ You need to upload the background image to the display
 Connect the EVE display to the USB2SPI board, be careful that the FFC is properly inserted in both headers
 Plug-in the USB2SPI to a USB cable and to your computer
 
-![EAB1](/images/USB2SPI_Device_Manager.png)
+![DM](/images/USB2SPI_Device_Manager.png)
 
 To verify you can run the test program, you should see the Matrix Orbital logo
 
@@ -50,7 +52,7 @@ With the EVE Asset Builder you will need to upload the images to the display
 
 The software will connect to the display and verify the on-board memory
 
-![EAB1](/images/EAB-2.png)
+![EAB2](/images/EAB-2.png)
 
 * e. Select the flash.bin file in the flash folder
 * f. Click Update&Verify
@@ -120,6 +122,8 @@ Before you can run the code a few edits will need to be made in `esp_weather_dem
 
 # Compile and Run
 
+![Loading](/images/Demo2.jpg)
+![Weather Screen](/images/Demo1.jpg)
 
 # Support Forums
   
