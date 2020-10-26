@@ -34,7 +34,7 @@ Plug-in the USB2SPI to a USB cable and to your computer
 
 To verify you can run the test program, you should see the Matrix Orbital logo
 
-jpeg_demo_43_EVE3_TPN.exe
+[jpeg_demo_43_EVE3_TPN.exe](https://github.com/MatrixOrbital/ESP-EVE3-Weather-Demo/raw/main/jpeg_demo_43_EVE3_TPN.exe)
 
 
 Download and install the EVE Asset Builder
