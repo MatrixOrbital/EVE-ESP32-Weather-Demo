@@ -1,4 +1,6 @@
-# Example code for the EVE on a ESP 32 with the WEMOS D1 mini
+# Example code for the EVE on a ESP with the WEMOS D1 mini
+
+Simple weather station application for an ESP and a Matrix Orbital 4.3" Display.
 
 ![Weather Screen](/images/Demo1.jpg)
 
