@@ -80,7 +80,7 @@ You will require the Arduino IDE
 
 You may require to rename the folder to 'ESP-EVE3-Weather-Demo'
 
-Load 'esp_weather_demo.ino'
+Load 'ESP-EVE3-Weather-Demo.ino'
 
 Install the ESP8266 Board Manager
 
