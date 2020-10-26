@@ -63,6 +63,7 @@ The software will connect to the display and verify the on-board memory
 
 Display---SPI2BBC---ESP32
 
+![EAB2](/images/Connection.jpg)
 
 |ESP|Breakout Board|
 |-|-|
