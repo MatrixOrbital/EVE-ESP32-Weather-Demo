@@ -22,7 +22,7 @@ Simple weather station application for an ESP and a Matrix Orbital 4.3" Display.
 
 - WEMOS D1 Mini (Most models of the ESP32/ESP8266 should work, but are untested)
 - A Matrix Orbital [EVE3-43 display](https://www.matrixorbital.com/eve3-43a)
-- A Matrix Orbital [EVE2-SPI2BBC Breakout board](https://www.matrixorbital.com/EVE2-SPI2BBC)
+- A Matrix Orbital [EVE-SPI2BBC Breakout board](https://www.matrixorbital.com/EVE-SPI2BBC)
 - A Matrix Orbital [EVE2-USB2SPI-KIT-A USB to SPI Adapter board](https://www.matrixorbital.com/eve2-usb2spi-kit-a)
 
 
